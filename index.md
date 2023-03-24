@@ -1,8 +1,15 @@
-# modal-notificator
-Modal notifications with action buttons
+---
+isBookIndex: true
+---
 
-ModalNotificator creates a popup message in a different style as required. By using the simple function modalNotificator you get everything immovable in one single javascript file. You can apply properties to change the interface. Here are some examples.
+---
+title: ModalNotificator
+description: Modal notifications with action buttons, creates a popup message in a different style as required. By using the simple function modalNotificator you get everything immovable in one single javascript file. You can apply properties to change the interface.
 
+
+# Introduction: Technical Documentation for ModalNotificator
+
+Simple example how to use it:
 <button onclick="modalNotificator({
 title: 'Success message',
 message: 'This is a success message that was fired',
